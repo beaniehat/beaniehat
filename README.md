@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome to my GitHub profile !
+
+🦜 : 🇺🇸 | 🇫🇷 | 🇩🇪
+
+🎓 : CPGE Champollion, Grenoble | FreeCodeCamp
+
+💻 : LaTeX | C | Python | HTML/CSS | Bash | Caml
+
+🙋 : Who gives a crap about pronouns anyway
 
 <!--
 **beaniehat/beaniehat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
